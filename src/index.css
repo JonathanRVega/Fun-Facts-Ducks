@@ -11,3 +11,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mainContainerDuck{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contentContainer{
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.buttonContainer{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.textMain{
+  text-align: justify;
+}
+
+.textDuck{
+  text-align: center;
+}
+
+.buttonMargin{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.imageAlign{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transition: transform .2s;
+}
+.imageAlign:hover{
+  transform: scale(1.2);
+}
+
+.duckRow{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 1.7em;
+  margin-bottom: 1.7em;
+}
