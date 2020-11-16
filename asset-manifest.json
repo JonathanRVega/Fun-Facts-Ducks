@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Fun-Facts-Ducks/static/css/main.44f64cf7.chunk.css",
-    "main.js": "/Fun-Facts-Ducks/static/js/main.28d5e7f8.chunk.js",
-    "main.js.map": "/Fun-Facts-Ducks/static/js/main.28d5e7f8.chunk.js.map",
+    "main.css": "/Fun-Facts-Ducks/static/css/main.051cda9f.chunk.css",
+    "main.js": "/Fun-Facts-Ducks/static/js/main.cc1c5d62.chunk.js",
+    "main.js.map": "/Fun-Facts-Ducks/static/js/main.cc1c5d62.chunk.js.map",
     "runtime-main.js": "/Fun-Facts-Ducks/static/js/runtime-main.121d3745.js",
     "runtime-main.js.map": "/Fun-Facts-Ducks/static/js/runtime-main.121d3745.js.map",
     "static/js/2.ea75a58f.chunk.js": "/Fun-Facts-Ducks/static/js/2.ea75a58f.chunk.js",
@@ -10,18 +10,23 @@
     "static/js/3.28f42a6f.chunk.js": "/Fun-Facts-Ducks/static/js/3.28f42a6f.chunk.js",
     "static/js/3.28f42a6f.chunk.js.map": "/Fun-Facts-Ducks/static/js/3.28f42a6f.chunk.js.map",
     "index.html": "/Fun-Facts-Ducks/index.html",
-    "static/css/main.44f64cf7.chunk.css.map": "/Fun-Facts-Ducks/static/css/main.44f64cf7.chunk.css.map",
+    "static/css/main.051cda9f.chunk.css.map": "/Fun-Facts-Ducks/static/css/main.051cda9f.chunk.css.map",
     "static/js/2.ea75a58f.chunk.js.LICENSE.txt": "/Fun-Facts-Ducks/static/js/2.ea75a58f.chunk.js.LICENSE.txt",
     "static/media/Duck1.c48c05ae.png": "/Fun-Facts-Ducks/static/media/Duck1.c48c05ae.png",
     "static/media/Duck3.9a4ed655.png": "/Fun-Facts-Ducks/static/media/Duck3.9a4ed655.png",
     "static/media/Duck6.ac032ddc.png": "/Fun-Facts-Ducks/static/media/Duck6.ac032ddc.png",
     "static/media/Duck8.8dcfe0ba.png": "/Fun-Facts-Ducks/static/media/Duck8.8dcfe0ba.png",
-    "static/media/Duck9.82ad62f4.png": "/Fun-Facts-Ducks/static/media/Duck9.82ad62f4.png"
+    "static/media/Duck9.82ad62f4.png": "/Fun-Facts-Ducks/static/media/Duck9.82ad62f4.png",
+    "static/media/domesticduck1.7b5cab6b.png": "/Fun-Facts-Ducks/static/media/domesticduck1.7b5cab6b.png",
+    "static/media/domesticduck2.f0e29b56.png": "/Fun-Facts-Ducks/static/media/domesticduck2.f0e29b56.png",
+    "static/media/domesticduck3.1568b20c.png": "/Fun-Facts-Ducks/static/media/domesticduck3.1568b20c.png",
+    "static/media/feather.85a0d07d.png": "/Fun-Facts-Ducks/static/media/feather.85a0d07d.png",
+    "static/media/pond.afbae9e9.png": "/Fun-Facts-Ducks/static/media/pond.afbae9e9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.121d3745.js",
     "static/js/2.ea75a58f.chunk.js",
-    "static/css/main.44f64cf7.chunk.css",
-    "static/js/main.28d5e7f8.chunk.js"
+    "static/css/main.051cda9f.chunk.css",
+    "static/js/main.cc1c5d62.chunk.js"
   ]
 }
