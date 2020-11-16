@@ -20,22 +20,22 @@ class Fact2 extends Component {
                 <div className="duckRow">
 
                 <div>
-                    <img className="imageAlign" src={duck1}></img>
+                    <img className="imageAlign" src={duck1} alt=""></img>
                     <p className="textDuck">Rouen</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck2}></img>
+                    <img className="imageAlign" src={duck2} alt=""></img>
                     <p className="textDuck">Pekin duck</p>
                 </div>
                 
                 <div>
-                    <img className="imageAlign" src={duck3}></img>
+                    <img className="imageAlign" src={duck3} alt=""></img>
                     <p className="textDuck">Hook bill</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck4}></img>
+                    <img className="imageAlign" src={duck4} alt=""></img>
                     <p className="textDuck">Blue Swedish</p>
                 </div>
 
@@ -44,22 +44,22 @@ class Fact2 extends Component {
                 <div className="duckRow">
 
                 <div>
-                    <img className="imageAlign" src={duck5}></img>
+                    <img className="imageAlign" src={duck5} alt=""></img>
                     <p className="textDuck">Saxony</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck6}></img>
+                    <img className="imageAlign" src={duck6} alt=""></img>
                     <p className="textDuck">Muscovy</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck7}></img>
+                    <img className="imageAlign" src={duck7} alt=""></img>
                     <p className="textDuck">Indian runner</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck8}></img>
+                    <img className="imageAlign" src={duck8} alt=""></img>
                     <p className="textDuck">Khaki campbell</p>
                 </div>
 
@@ -68,22 +68,22 @@ class Fact2 extends Component {
                 <div className="duckRow">
 
                 <div>
-                    <img className="imageAlign" src={duck9}></img>
+                    <img className="imageAlign" src={duck9} alt=""></img>
                     <p className="textDuck">Silver bantam</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck10}></img>
+                    <img className="imageAlign" src={duck10} alt=""></img>
                     <p className="textDuck">Crested</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck11}></img>
+                    <img className="imageAlign" src={duck11} alt=""></img>
                     <p className="textDuck">Welsh harlequin</p>
                 </div>
 
                 <div>
-                    <img className="imageAlign" src={duck12}></img>
+                    <img className="imageAlign" src={duck12} alt=""></img>
                     <p className="textDuck">Bali duck</p>
                 </div>
 
